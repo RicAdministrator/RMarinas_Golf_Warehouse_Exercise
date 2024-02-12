@@ -1,2 +1,3 @@
-Name: Ricardo Miguel B. Mariñas
+Name: Ricardo Miguel B. MariÃ±as
+
 Job Site: Jobstreet
