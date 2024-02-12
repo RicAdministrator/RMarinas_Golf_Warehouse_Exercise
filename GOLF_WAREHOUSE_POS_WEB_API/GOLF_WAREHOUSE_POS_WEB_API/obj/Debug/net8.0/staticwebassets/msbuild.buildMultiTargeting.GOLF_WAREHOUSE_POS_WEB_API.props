@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GOLF_WAREHOUSE_POS_WEB_API.props" />
+</Project>
